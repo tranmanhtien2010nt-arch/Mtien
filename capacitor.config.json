@@ -1,0 +1,7 @@
+{
+  "appId": "vn.owo.flashcards",
+  "appName": "OwO",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "server": { "androidScheme": "https" }
+}
